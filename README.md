@@ -5,28 +5,28 @@ This project is developed as part of the Software Engineering course (CSCI 6050)
 
 # Key Features:
 
-# Movie Information Management: 
+**Movie Information Management:** 
 System administrators can easily add, update, or delete movie details, including title, category, cast, director, producer, synopsis, reviews, trailer (picture and video), MPAA-US film rating code, and show dates/times.
 
-# Ticket and Promotion Management: 
+**Ticket and Promotion Management:** 
 Administrators have control over ticket prices, online booking fees, and promotions. The system enables the addition of promotions with automatic email notifications to subscribed users.
 
-# User Registration and Profile Management: 
+**User Registration and Profile Management:**
 Users can register securely, providing personal information and optional payment details. Registration includes a verification process via email, after which users receive a unique account ID. Registered users can manage their profiles, change passwords, and subscribe/unsubscribe to promotions.
 
-# Booking Facility: 
+**Booking Facility:** 
 The system offers a user-friendly booking interface for selecting movies, show dates/times, ticket quantities, and age categories. Users can also choose seats through a graphical hall view. Only registered and signed-in users can book tickets.
 
-# Secure Checkout: 
+**Secure Checkout:** 
 A secure payment facility allows users to pay for tickets online, utilizing promotion codes for discounts. Upon successful payment, users receive a booking confirmation page and email.
 
-# Order History and Ticket Refund: 
+**Order History and Ticket Refund:** 
 Users can view their order history. The system supports ticket returns with refunds if canceled up to 60 minutes before the show time (low priority).
 
-# Administrative Tools: 
+**Administrative Tools:** 
 Administrators can pull predefined reports and manage system parameters. Multi-user access is supported with appropriate authentication and authorization mechanisms.
 
-# Development Process: 
+**Development Process:**
 The system uses an incremental hybrid model, combining waterfall and agile methodologies. Prototypes are utilized for UI design, and development is carried out in sprints with continuous testing to ensure a high-quality product.
 
 # Architecture Style:
